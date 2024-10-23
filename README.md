@@ -1,15 +1,16 @@
 # Programming for Data Analytics Assignments
 
 ## About this Notebook
-This is my submission for the Programming for Data Analytics module assessments.
+This is my submission for the assessment component of the Programming for Data Analytics module.
 
-These tasks are:
+The assessments I have worked on within this repository are:
 
 | Week | Title | Summary |
 | :--  | :---: |  :---:  |
-| 1 | repository setup | Creating the PFDA assignments repository |
-| 2 | weather | Plotting temperature over time for 24 hours of a weather report for Tuam, Co. Galway |
-| 3 | pie | Pie chart of email domains from 1000 people in a CSV file |
+| 1 | Repository Setup | Creating the PFDA assignments repository (this repository). |
+| 2 | weather | This assignment involved pulling data from a CSV file (a weather report) and plotting two of the variables (temperature over time). I do this in a Jupyter Notebook. |
+| 3 | pie | This is a Jupyter Notebook containing a pie chart which visualises the various email domains used by 1000 people in a CSV file. |
+| 4 | | |
 
 ## Get Started
 
