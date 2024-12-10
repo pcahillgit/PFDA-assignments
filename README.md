@@ -5,12 +5,14 @@ This is my submission for the assessment component of the Programming for Data A
 
 The assessments I have worked on within this repository are:
 
-| Week | Title | Summary |
+| Assignment | Title | Summary |
 | :--  | :---: |  :---:  |
 | 1 | Repository Setup | Creating the PFDA assignments repository (this repository). |
 | 2 | weather | This assignment involved pulling data from a CSV file (a weather report) and plotting two of the variables (temperature over time). I do this in a Jupyter Notebook. |
 | 3 | pie | This is a Jupyter Notebook containing a pie chart which visualises the various email domains used by 1000 people in a CSV file. |
-| 4 | | |
+| 4 | No Assignment |  No assignment this week. |
+| 5 | risk | Simulating 1000 games of risk using (pseudo)randomly generated numbers and plotting the results. |
+| 6 | Knock airport Weather | |
 
 ## Get Started
 
