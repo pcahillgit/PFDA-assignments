@@ -12,7 +12,7 @@ The assessments I have worked on within this repository are:
 | 3 | pie | This is a Jupyter Notebook containing a pie chart which visualises the various email domains used by 1000 people in a CSV file. |
 | 4 | No Assignment |  No assignment this week. |
 | 5 | risk | Simulating 1000 games of risk using (pseudo)randomly generated numbers and plotting the results. |
-| 6 | Knock airport Weather | |
+| 6 | Knock airport Weather | Importing a CSV with weather data from Knock Airport and using that data to make several plots related to temperature and windspeed. |
 
 ## Get Started
 
